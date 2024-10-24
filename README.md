@@ -17,18 +17,22 @@ To run this game, you need:
 
 You can install the `graphics.py` library via pip if you don't have it already:
 
-## How to Run
-1. Clone the repository to your local machine:
+# How to Run
+## Follow these steps to set up and run the Typing Speed Game on your local machine.
+1. Clone the Repository: Open your terminal or command prompt and run the following command to clone the repository to your local machine:
 - git clone https://github.com/yourusername/typing-speed-game.git
-2. Navigate to the project directory:
+2. Navigate to the Project Directory: Change into the project directory:
 - cd typing-speed-game
-3. Run the game:
-- python typing_speed_game.py
+3. Install the Required Library: Install the graphics.py library if you haven’t already. You can use pip to install it:
+- pip install graphics.py
+If graphics.py is not available via pip, you may need to download it manually from John Zelle's graphics.py page.
 
+## Running the Game
+- **Start the Game**: Run the typing_speed_game.py script to start the game: **python typing_speed_game.py**
 
 ## Controls
 - Click on the buttons to select your desired level.
-- Type the displayed words and press 'Enter' to submit.
+  Type the displayed words and press 'Enter' to submit.
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/f97c63c9-2ebe-4eef-8e37-14708ab17978)
@@ -44,10 +48,6 @@ Watch the video demo to see the Typing Speed Game in action:
 ## Acknowledgments
 - Thanks to the creators of the graphics.py library for providing the graphical capabilities used in this game.
 
-
-
-```bash
-pip install graphics.py
 
 
 

@@ -20,7 +20,7 @@ You can install the `graphics.py` library via pip if you don't have it already:
 # How to Run
 ## Follow these steps to set up and run the Typing Speed Game on your local machine.
 1. Clone the Repository: Open your terminal or command prompt and run the following command to clone the repository to your local machine:
-- git clone https://github.com/yourusername/typing-speed-game.git
+- git clone https://github.com/thonyyy31/typing-speed-game.git
 2. Navigate to the Project Directory: Change into the project directory:
 - cd typing-speed-game
 3. Install the Required Library: Install the graphics.py library if you haven’t already. You can use pip to install it:
